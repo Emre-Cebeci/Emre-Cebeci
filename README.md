@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soofa</h1>
-<h3 align="center">A dotnet, AI and game dev enthusiast.</h3>
+<h3 align="center">An AI/ML engineer and game dev enthusiast.</h3>
 
 - 🔭 I’m currently working on **some AI related projects and a game of my own.**
 
